@@ -1,0 +1,60 @@
+{
+  "color": [
+    {
+      "name": "index_page_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "setting_page_background",
+      "value": "#f8f8f8"
+    },
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "auth_prompt_text_color",
+      "value": "#9F9F9F"
+    },
+    {
+      "name": "auth_prompt_label_text_color",
+      "value": "#cccccc"
+    },
+    {
+      "name": "button_background",
+      "value": "#40AFFE"
+    },
+    {
+      "name": "setting_button_background",
+      "value": "#19ffffff"
+    },
+    {
+      "name": "setting_button_font_color",
+      "value": "#333333"
+    },
+    {
+      "name": "setting_title_font_color",
+      "value": "#aeaeae"
+    },
+    {
+      "name": "setting_item_content_background_color",
+      "value": "#ffffff"
+    },
+    {
+      "name": "setting_line_background_color",
+      "value": "#f8f8f8"
+    },
+    {
+      "name": "dialog_title_font_color",
+      "value": "#182431"
+    },
+    {
+      "name": "dialog_btn_font_color",
+      "value":"#007DFF"
+    },
+    {
+      "name": "result_page_background_color",
+      "value": "#ffffff"
+    }
+  ]
+}

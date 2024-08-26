@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "permreason_camera",
+      "value": "允许相机权限，才能为您提供接下来的服务"
+    },
+    {
+      "name": "permreason_media",
+      "value": "允许存储权限，才能为您提供接下来的服务"
+    }
+  ]
+}

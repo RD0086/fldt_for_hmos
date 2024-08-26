@@ -1,0 +1,76 @@
+{
+  "float": [
+    {
+      "name": "auth_icon_size",
+      "value": "200vp"
+    },
+    {
+      "name": "auth_icon_margin_top",
+      "value": "120vp"
+    },
+    {
+      "name": "auth_icon_margin_bottom",
+      "value": "50vp"
+    },
+    {
+      "name": "auth_prompt_text_size",
+      "value": "15fp"
+    },
+    {
+      "name": "auth_prompt_margin_bottom",
+      "value": "80vp"
+    },
+    {
+      "name": "auth_prompt_label_text_size",
+      "value": "14fp"
+    },
+    {
+      "name": "auth_prompt_icon_height",
+      "value": "60vp"
+    },
+    {
+      "name": "auth_btn_height",
+      "value": "40vp"
+    },
+    {
+      "name": "setting_label_font_size",
+      "value": "16fp"
+    },
+    {
+      "name": "setting_title_font_size",
+      "value": "15fp"
+    },
+    {
+      "name": "setting_item_content_border_radius",
+      "value": "15vp"
+    },
+    {
+      "name": "setting_item_content_height",
+      "value": "45vp"
+    },
+    {
+      "name": "setting_title_height",
+      "value": "50vp"
+    },
+    {
+      "name": "dialog_content_border_radius",
+      "value": "32vp"
+    },
+    {
+      "name": "dialog_content_height",
+      "value": "168vp"
+    },
+    {
+      "name": "dialog_text_height",
+      "value": "24fp"
+    },
+    {
+      "name": "dialog_btn_width",
+      "value": "96vp"
+    },
+    {
+      "name": "dialog_btn_height",
+      "value": "32vp"
+    }
+  ]
+}

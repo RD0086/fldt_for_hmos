@@ -1,0 +1,12 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "活体检测DEMO",
+  "main": "",
+  "author": "REID.LEE",
+  "license": "",
+  "dependencies": {
+    "@esand/esldtSDK": "file:../esldtSDK.har"
+  }
+}
+
