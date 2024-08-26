@@ -3,10 +3,12 @@ import {BusinessError} from '@ohos.base';
 import HttpResponse from '../constants/HttpResponse'
 import { MyLog } from '@esand/esldtSDK'
 export class LdtHttpRequest {
+
   /**
-   * 替换为你自己的APPCODE, APPCODE 获取方式可参考 ： https://esandinfo.yuque.com/yv6e1k/ulp2ub/fs2mm48opwox3xc4
+   * 替换为你自己的阿里云 APPCODE, APPCODE 获取方式可参考 ： https://esandinfo.yuque.com/yv6e1k/ulp2ub/fs2mm48opwox3xc4
    */
   MY_APPCODE: string = 'TODO 替换为你自己的APPCODE'
+
   private constructor() { }
 
   public static ldtHttpRequest(): LdtHttpRequest {
@@ -60,6 +62,7 @@ export class LdtHttpRequest {
       }).catch((err: BusinessError) => {
         MyLog.error('request token error:' + JSON.stringify(err));
     });
+
     httpRequest.destroy();
     return getTokenResult;
   }
@@ -111,6 +114,7 @@ export class LdtHttpRequest {
       }).catch((err: BusinessError) => {
         MyLog.error('request verify error:' + JSON.stringify(err));
       });
+
     httpRequest.destroy();
     return verifyResult;
   }
