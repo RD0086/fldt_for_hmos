@@ -3,7 +3,7 @@
 ### 概述
 鸿蒙Next 活体检测 (眨眼，摇头，点头，张嘴，远近，炫彩)，前后端结合，确保活体检测结果安全可靠。(***可用于人脸活体检测,实人认证，刷脸认证，意愿核验等场景 ***)
 
-![](http://open.esandcloud.com/index.php/s/78XA91wLQV2y36B/download)
+![demo](imgs/demo.gif)
 
 ### 接入步骤
 1. 开通响应的服务 (阿里云接入需要，一砂云接入只需要联系客服开通即可)
@@ -35,3 +35,7 @@ qq: 3626921591
 电话：13691664797
 邮箱：reid.li@foxmail.com
 ```
+
+扫我加微信：
+
+![QRCODE](imgs/qrcode.jpeg)
