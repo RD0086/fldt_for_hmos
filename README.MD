@@ -5,6 +5,9 @@
 
 ![demo](imgs/demo.gif)
 
+
+- H5 体验DEMO链接 ： https://dev.esandcloud.com/h5demo/esand/living
+
 ### 接入步骤
 1. 开通响应的服务 (阿里云接入需要，一砂云接入只需要联系客服开通即可)
    a. 活体检测开通地址：https://market.aliyun.com/apimarket/detail/cmapi00046021?spm=5176.shop.result.30.6b7c28d8OLjEwj
